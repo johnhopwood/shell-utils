@@ -8,3 +8,8 @@ Various scripts / utils for bash or similar
 `put-s3-file` post to S3.
 
 `get-s3-file` check S3 etag, download file if necessary.
+
+`kinesis.sh` Simple Kinesis PutRecord, GetRecord, DescribeStream, GetShardIterator util.
+
+`iplist.sh` IP4 address range iterator.
+
