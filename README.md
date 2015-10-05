@@ -13,3 +13,5 @@ Various scripts / utils for bash or similar
 
 `iplist.sh` IP4 address range iterator.
 
+`get-external-ip.sh` Determine world visible routable IP4 address for this host.
+
