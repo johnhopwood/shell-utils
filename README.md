@@ -16,3 +16,8 @@ Various scripts / utils for bash or similar
 
 `get-external-ip.sh` Determine world visible routable IP4 address for this host.
 
+`db.conf` Database credentials.
+
+`dbrun.sh` Command line SQL util e.g. dbrun.sh "select * from table".
+
+`dbrestore.sh` `dbbackup.sh` Tablewise database restore and backup utils.
